@@ -51,7 +51,7 @@ CairoSVG = "^2.7.0"
 optional = true
 
 [tool.poetry.group.web.dependencies]
-tornado = "^6.3"
+tornado = "^6.4"
 
 [tool.poetry.group.dev]
 optional = true
